@@ -12,7 +12,7 @@ Dashboard ini dibuat untuk menganalisis dataset Bike Sharing menggunakan Streaml
 
 ## Prasyarat
 1. Pastikan Python 3.8+ sudah terinstall.
-2. Install library yang diperlukan dengan menjalankan perintah:
+2. Install library yang diperlukan  dan jalankan program dengan menjalankan perintah:
    ```bash
    pip install -r requirements.txt
    cd dashboard
