@@ -15,15 +15,15 @@ Dashboard ini dibuat untuk menganalisis dataset **Bike Sharing** menggunakan **S
 - Python 3.8+
 - Virtual environment (opsional)
 
-### Langkah-Langkah
-1. **Clone repositori** (jika ada):
-   ```bash
-   git clone https://github.com/username-anda/Bike-Sharing-Analysis-Project.git
-   cd Bike-Sharing-Analysis-Project
+## Cara menjalankan program
+**Buat venv terlebih dahulu dan aktifkan**
+```bash
+python -m venv .venv
+```
 
-## Install Depedencies dan Jalankan Streamlit untuk membuka dashboard
+**Install Library yang dibutuhkan dan lakukan running program di mode aktif venv**
 ```bash
 pip install -r requirements.txt
 cd dashboard
 streamlit run app.py
-
+ ``` 
